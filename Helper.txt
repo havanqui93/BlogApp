@@ -1,0 +1,11 @@
+Before start solution:
+
+I. URL host domain:
+
+	1. BlogApp.Identity		=> https://localhost:44355/
+	2. BlogApp.API			=> https://localhost:44303/
+	3. BlogApp.BackEnd		=> 
+	4. BlogApp.FrontEnd		=> 
+
+II. Nuget used:
+

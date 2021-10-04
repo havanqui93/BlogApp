@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\iziToast\css\" />
+    <Folder Include="wwwroot\lib\iziToast\js\" />
+    <Folder Include="wwwroot\lib\sweetalert\" />
+    <Folder Include="wwwroot\lib\tailwind\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoWrapper.Core" Version="4.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlogApp.Shared\BlogApp.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+D:\Research\Net\BlogApp\BlogApp.Shared\bin\Debug\net5.0\BlogApp.Shared.deps.json
+D:\Research\Net\BlogApp\BlogApp.Shared\bin\Debug\net5.0\BlogApp.Shared.dll
+D:\Research\Net\BlogApp\BlogApp.Shared\bin\Debug\net5.0\ref\BlogApp.Shared.dll
+D:\Research\Net\BlogApp\BlogApp.Shared\bin\Debug\net5.0\BlogApp.Shared.pdb
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\BlogApp.Shared.csproj.AssemblyReference.cache
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\BlogApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\BlogApp.Shared.AssemblyInfoInputs.cache
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\BlogApp.Shared.AssemblyInfo.cs
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\BlogApp.Shared.csproj.CoreCompileInputs.cache
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\BlogApp.Shared.dll
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\ref\BlogApp.Shared.dll
+D:\Research\Net\BlogApp\BlogApp.Shared\obj\Debug\net5.0\BlogApp.Shared.pdb

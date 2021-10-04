@@ -1,0 +1,77 @@
+﻿body {
+    background-color: #f1f5f8;
+    font-size: 14px;
+    overflow-x: hidden;
+    font-family: "Montserrat", sans-serif, "Roboto", sans-serif;
+}
+
+.navbar {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+#navbarNav {
+    flex-wrap: wrap;
+}
+
+
+.header-left, .header-right {
+    flex: 50%;
+}
+
+
+.option-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.main-container {
+    padding-top: 105px;
+}
+
+.create-post .create-btm-option li:last-child {
+    width: calc(100% - 99px);
+    margin: 0px;
+    text-align: center;
+    background: #0389c9
+}
+
+.create-post .create-btm-option li.option-post h5 {
+    justify-content: center;
+    color: #fff;
+}
+
+.create-post .create-btm-option li.option-upload-file {
+    cursor: pointer;
+}
+
+
+.iziToast:after {
+    box-shadow: unset;
+}
+
+@media only screen and (min-width: 568px) {
+    .iziToast:after {
+        box-shadow: unset;
+    }
+}
+
+.iziToast {
+    border-radius: 35px;
+}
+
+li.profile-btn .dropdown-menu-right {
+    top: 70px !important;
+    left: -90px;
+}
+
+li.notification-btn .dropdown-menu-right {
+    left: -305px;
+}
+
+li.message-btn .dropdown-menu-right {
+    left: -305px;
+}
